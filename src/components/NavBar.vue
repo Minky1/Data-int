@@ -4,7 +4,7 @@ import { RouterLink } from "vue-router";
 <template>
   <div class="flex justify-center items-center my-4">
     <div class="space-y-6">
-      <img class="mx-auto" src="../assets/deliveri_box.png" alt="" />
+      
       <div class="space-x-2">
         <RouterLink
           activeClass="active"
@@ -16,7 +16,7 @@ import { RouterLink } from "vue-router";
           activeClass="active"
           class="hover:text-pinkHover"
           to="/order"
-          >Make an order</RouterLink
+          >Map</RouterLink
         >
         <RouterLink
           activeClass="active"

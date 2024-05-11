@@ -8,11 +8,9 @@
       </p>
       <div class="flex flex-col text-center">
         <p>Veronika Kisele</p>
-        <p>Dmitrijs Semjonovs</p>
         <p>Mareks Lazdiņš</p>
         <p>Martins Varcenko</p>
-        <p>Konstantins Ziskins</p>
-        <p>Timur Boronenko</p>
+        
         
       </div>
     </div>
